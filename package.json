@@ -1,0 +1,28 @@
+{
+  "name": "yourpic-pwa",
+  "version": "1.0.0",
+  "description": "YourPic using PWA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VaraKatare/pwa-google-mws.git"
+  },
+  "keywords": [
+    "pwa",
+    "yourpic",
+    "google"
+  ],
+  "author": "Aris Fathur Rahman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VaraKatare/pwa-google-mws/issues"
+  },
+  "homepage": "https://github.com/VaraKatare/pwa-google-mws#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
